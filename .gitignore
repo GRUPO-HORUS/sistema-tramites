@@ -1,0 +1,10 @@
+node_modules
+vendor
+public/css/app.css
+public/css/backend.css
+public/css/manager.css
+public/js/app.js
+public/js/backend.js
+public/js/manager.js
+bootstrap/cache/packages.php
+bootstrap/cache/services.php
